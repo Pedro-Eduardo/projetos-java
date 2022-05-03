@@ -1,0 +1,8 @@
+package dio.auladejava;
+
+public class MinhaClasse {
+	private void mai() {
+		System.out.print('Hello Word');
+	}
+
+}
